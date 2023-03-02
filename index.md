@@ -9,7 +9,7 @@ to develop computational models capable of understanding language in human-like 
 understanding in human-robot dialogue, developing an Interactive Cookbook dialogue system, and generally asking how symbolic representations
 can facilitate these tasks. 
 
-![Lucia](https://github.com/luciaelizabeth/luciaelizabeth.github.io/blob/master/assets/leolani.jpeg "Leolani")
+
 
  
 
