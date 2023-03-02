@@ -3,14 +3,13 @@ layout: page
 title: "About"
 ---
 
-I am Assistant Professor in the <a href="http://www.cltl.nl">Computational Linguistics and Text Mining Lab (CLTL)</a> 
-at <a href="https://vu.nl/nl">Vrije Universiteit (VU) Amsterdam</a>. 
-
-
-<img src="/luciaelizabeth.github.io/assets/lucia_robot.jpeg" alt="Lucia">
-
-
-My research focuses on natural language understanding with the broad goal
+I am Assistant Professor in the [Computational Linguistics and Text Mining Lab (CLTL)](http://www.cltl.nl)
+at [Vrije Universiteit (VU) Amsterdam](https://vu.nl/nl). My research focuses on natural language understanding with the broad goal
 to develop computational models capable of understanding language in human-like ways. I'm currently focusing on projects related to situated language 
 understanding in human-robot dialogue, developing an Interactive Cookbook dialogue system, and generally asking how symbolic representations
 can facilitate these tasks. 
+
+![Lucia](https://github.com/luciaelizabeth/luciaelizabeth.github.io/blob/master/assets/leolani.jpeg "Leolani")
+
+ 
+
