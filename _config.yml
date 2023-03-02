@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "news.md", title: "News"}
   - {file: "README.md", title: "Research"}
   - {title: "Teaching", file: "teaching.md"}
-  - {title: "CV", file: "Donatelli_CV_February_2023.pdf"}
+  - {title: "CV", file: "/Donatelli_CV_February_2023.pdf"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
