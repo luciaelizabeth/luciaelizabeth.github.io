@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "News"
+layout: page
+title: "Home"
 ---
+
+Hello
 
   
 {% if site.show_excerpts %}
