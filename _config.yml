@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:l.e.donatelli@vu.nl"}
-  - {title: Github, icon: github, url: "https://github.com/luciaelizabeth.github.io"}
+  - {title: Github, icon: github, url: "https://github.com/cltl"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/lucia_elizabe"}
 
 comments:
