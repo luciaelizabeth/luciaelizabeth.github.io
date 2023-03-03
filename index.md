@@ -10,6 +10,13 @@ at [Vrije Universiteit (VU) Amsterdam](https://vu.nl/nl). My research focuses on
 to develop computational models capable of understanding language in human-like ways. For more about my research, see [Research](https://luciaelizabeth.github.io/about/). 
 
 
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="News" %}
+{% endif %}
+
+
 
 
 
