@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-![Lucia](docs/assets/images/lucia3.png){:style="float: left;margin-left: 7px;margin-top: 7px;"}
+![Lucia](docs/assets/images/lucia3.png)
 
 I am Assistant Professor in the [Computational Linguistics and Text Mining Lab (CLTL)](http://www.cltl.nl)
 at [Vrije Universiteit (VU) Amsterdam](https://vu.nl/nl). My research focuses on natural language understanding with the broad goal
