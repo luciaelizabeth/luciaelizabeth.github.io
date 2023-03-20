@@ -1,5 +1,5 @@
 ---
-title: "IWCS keynote speaker"
+title: "IWCS invited speaker"
 layout: post
 ---
 
